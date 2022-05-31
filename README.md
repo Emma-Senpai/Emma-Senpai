@@ -10,7 +10,7 @@ I am "Emma-Senpai" who is an hunter and investigator of IoT/Linux botnets.
 
 - Know/Using
 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/) 
+ [<img src="https://raw.githubusercontent.com/Emma-Senpai/Emma-Senpai/master/img/golang.png" alt="go logo" width="38">](https://golang.org/) 
 
 
 - Learning
@@ -22,5 +22,5 @@ I am "Emma-Senpai" who is an hunter and investigator of IoT/Linux botnets.
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | IntelliJ Idea | GoLand IDE|
+| [<img src="https://raw.githubusercontent.com/Emma-Senpai/Emma-Senpai/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Emma-Senpai/Emma-Senpai/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | IntelliJ Idea | GoLand IDE|
 
