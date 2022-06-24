@@ -4,7 +4,7 @@ I am "Emma-Senpai" who is an hunter and investigator of IoT/Linux botnets.
 
 
 ![Emma-Senpao GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emma-Senpai&show_icons=true&include_all_commits=true)
-
+![](https://komarev.com/ghpvc/?username=Emma-Senpai)
 
 ### Programming Languages 🌐
 
